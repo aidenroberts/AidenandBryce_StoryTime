@@ -18,6 +18,9 @@ that was sad, or a deer
 
 #Bryce Butchers Story
 
+This is my story. I thought I had no idea what I was doing, but I am getting better at it I think. 
+
+
 Item 4: A discussion of what you want to get out of this class.
 I want to fine tune my skills not only as a programmer but as someone who is gonna go into the field of ITcommit 3351ed5b2cd05fad70dd89f80018cf530ebc70a5
 Author: Aiden Roberts <robertsaj@student.swosu.edu>
@@ -30,3 +33,5 @@ Author: aidenroberts <robertsaj@student.swosu.edu>
 Date:   Wed Sep 6 20:54:47 2017 -0500
 
     Initial commit
+
+
